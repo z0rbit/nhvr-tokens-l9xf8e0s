@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/raspy-paper-4ksma.figma-tokens-l9xf8e0s",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 9bNyJn4EVKOOxWYeECBu --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
